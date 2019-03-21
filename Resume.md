@@ -1,5 +1,5 @@
  <center>
-     <h1>XXX</h1>
+     <h1>尹思凯</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
@@ -35,12 +35,6 @@
 - 绩点：3.87/4，年级前 1%
 - 托福 TOEFL:108/120 雅思 IELTS:7.5/9.0 GRE:330/340
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
-
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
-
-   负责 XXX
-
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
 - **XXXX 项目**
@@ -51,9 +45,9 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
+- ★★★ C++、Python
+- ★★☆ MySQL
+- ★★★ 
 - ★★★ Redis
 - ★★☆ Spring
 - ★☆☆ RabbitMQ、ZooKeeper
